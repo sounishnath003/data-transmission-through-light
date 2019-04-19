@@ -1,0 +1,13 @@
+https://www.instructables.com/id/How-to-Send-Data-to-AskSensors-With-Arduino-Ethern/
+
+https://researchdesignlab.com/lifi-nano-v2.html // Rajesh Sir
+
+https://www.hackster.io/kutluhan-aktar/how-to-create-a-website-communicating-arduino-by-using-php-ce5232
+
+
+bijoypal32@gmail.com
+
+https://microcontrollerslab.com/interfacing-ethernet-shield-arduino/
+
+https://thenextweb.com/insider/2014/08/21/purelifi-li-fi-vlc-led/
+
